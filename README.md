@@ -1,24 +1,42 @@
-TextUtils Documentation
-Overview
-TextUtils is a web application designed to perform various text manipulations. It is built using JavaScript, HTML, and CSS.
+## Text Utility (React + Bootstrap)
 
-Features
-Text transformation (uppercase, lowercase, etc.)
-Text analysis (word count, character count, etc.)
-Text formatting (adding spaces, removing extra spaces, etc.)
-Setup Instructions
-Clone the Repository:
+**Repository:** [GitHub Link](https://github.com/ARCHANA130/Text-Utility)  
+**Live Demo:** [Text Utility](https://tesxtutils2004.netlify.app/)  
 
-sh
-git clone https://github.com/ARCHANA130/TextUtils.git
-Navigate to the Project Directory:
+### 📌 Overview  
+A **text utility tool** that provides **real-time text transformation** features such as word count, case conversion, and dark mode support.
 
-sh
-cd TextUtils
-Install Dependencies:
-Ensure you have Node.js and npm installed. Run the following command to install the necessary dependencies:
+### 🚀 Features  
+- 🔤 **Word & Character Counter**  
+- 🔄 **Convert Case (Uppercase, Lowercase, Capitalize)**  
+- 🔍 **Remove Extra Spaces**  
+- 🌗 **Dark Mode Toggle**  
 
-sh
+### 🛠️ Tech Stack  
+- **Frontend:** React.js, Bootstrap  
+- **State Management:** React Hooks  
+- **Hosting:** Netlify  
+
+### 📷 Screenshots  
+(_Add UI images here_)
+
+### 🔧 Setup & Installation  
+```bash
+git clone https://github.com/ARCHANA130/Text-Utility.git
+cd Text-Utility
+npm install
+npm start
+```
+
+### 📌 Future Enhancements  
+- 🎤 Speech-to-text conversion  
+- ✍️ Grammar & spelling checks  
+- 📜 Export as PDF  
+
+---
+
+
+
 npm install
 Start the Development Server:
 
