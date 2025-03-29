@@ -17,8 +17,6 @@ A **text utility tool** that provides **real-time text transformation** features
 - **State Management:** React Hooks  
 - **Hosting:** Netlify  
 
-### 📷 Screenshots  
-(_Add UI images here_)
 
 ### 🔧 Setup & Installation  
 ```bash
@@ -34,9 +32,6 @@ npm start
 - 📜 Export as PDF  
 
 ---
-
-
-
 npm install
 Start the Development Server:
 
